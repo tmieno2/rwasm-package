@@ -1,0 +1,6 @@
+Package: r.spatial.workshop.datasets
+Version: 1.0
+Depends: R (>= 3.5)
+Imports: sf
+License: MIT + file LICENSE
+MD5sum: 899ee0a059ea6ce102a4bd8d1fa121a1
